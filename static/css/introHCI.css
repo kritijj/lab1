@@ -6,7 +6,7 @@
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
-	color: #CC00AA;
+	color: #AA78CA;
 }
 
 /* this style exists to make it obvious that you've successfully linked
@@ -31,4 +31,40 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;
+}
+.contact-info{
+     background-color:#AA78CA;
+     margin-left: 10px;
+}
+
+.project1{
+    background-color: #AA78CA;
+    margin-left: 20px;
+}
+img .thumbnail{
+    width: 40px
+    height: 100px;
+    border: 1px solid#434343;
+}
+.project2{
+    background-color:#CAADE3;
+    margin-left: 20px;
+}.project3{
+    background-color: #AA78CA;
+    margin-left: 20px;
+}.project4{
+    background-color: #CAADE3;
+    margin-left: 20px;
+}.project5{
+    background-color: #AA78CA;
+    margin-left: 20px;
+}.project6{
+    background-color: #CAADE3;
+    margin-left: 20px;
+}.project7{
+    background-color: #AA78CA;
+    margin-left: 20px;
+}.project8{
+    background-color: #CAADE3;
+    margin-left: 20px;
 }
